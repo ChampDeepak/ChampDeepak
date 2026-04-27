@@ -12,8 +12,8 @@
 ![](https://streak-stats.demolab.com/?user=ChampDeepak&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ChampDeepak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### A small reminder for my self from Inverted Passion: 
+Map is not the territory.
 
 
 
