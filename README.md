@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on building a CLI coding agent<br><br>👯 I'm looking to collaborate on generative AI and machine learning projects<br><br>🌱 I'm currently learning machine learning and agentic systems
-
+🔭 I'm currently working in Human Data Team at arcfront.ai<br><br>👯 I'm looking to collaborate on generative AI and machine learning projects<br><br>🌱 I'm currently learning about post training of ai models.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/its-deepak-sharma) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BytheDeepak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakshrma.work@gmail.com) 
